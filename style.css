@@ -1,0 +1,21 @@
+.body{
+    background-color: aqua;
+    color:slategray;
+    font-size: 20px ; 
+    font-family: 'Bebas Neue', cursive;
+    }
+    .heading{
+        width: 80%;
+        font-size: 24px;
+    }
+    #webcamara{
+        border: 2px dashed black; ;
+    width: 75%;
+    height: 350px;
+    }
+    #webshot{
+       
+    width: 75%;
+    height: 350px;
+    }
+    
